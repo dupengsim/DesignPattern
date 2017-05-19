@@ -35,3 +35,6 @@ F:\CodeRecource\Redis\MyRedis\MyRedisDemo\bin\Debug\ServiceStack.Common.xml
 F:\CodeRecource\Redis\MyRedis\MyRedisDemo\bin\Debug\ServiceStack.Redis.xml
 F:\CodeRecource\Redis\MyRedis\MyRedisDemo\bin\Debug\ServiceStack.Text.xml
 F:\CodeRecource\Redis\MyRedis\MyRedisDemo\obj\Debug\MyRedisDemo.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPattern\MyRedis\MyRedisDemo\bin\Debug\MyRedisDemo.exe.config
+F:\GitHub\DesignPattern\MyRedis\MyRedisDemo\obj\Debug\MyRedisDemo.exe
+F:\GitHub\DesignPattern\MyRedis\MyRedisDemo\obj\Debug\MyRedisDemo.pdb

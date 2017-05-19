@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MyRedisDemo
 {
+    /// <summary>
+    ///  测试GitHub项目管理的使用
+    /// </summary>
     public class Student
     {
         public int Id { get; set; }
